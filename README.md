@@ -1,6 +1,6 @@
-### wrong_config
+### README
 
-### including:
+including:
 
 folder: image
 
